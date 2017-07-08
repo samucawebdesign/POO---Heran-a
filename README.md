@@ -1,2 +1,2 @@
-# POO---Heran-a
+# POO - Herança
 Estudos de Programação orientada a objetos
