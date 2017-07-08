@@ -36,6 +36,7 @@ $p4->setSexo('Feminino');
 $p3->receberAumento('550.10');
 $p4->mudarTrabalho();
 $p2->cancelarMatr();
+# Show de bola hein!
 
 
 print_r($p1);
